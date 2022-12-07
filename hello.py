@@ -1,6 +1,9 @@
 import sys
 
 
+def test():
+    pass
+
 def french():
     print("bonjour")
 
