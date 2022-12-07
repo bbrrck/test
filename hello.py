@@ -5,6 +5,10 @@ def french():
     print("bonjour")
 
 
+def slovak():
+    print("ahoj")
+
+
 def default():
     print("hello")
 
@@ -12,6 +16,8 @@ def default():
 def main():
     if sys.argv[1] == "fr":
         french()
+    elif sys.argv[1] == "sk":
+        slovak()
     else:
         default()
 
