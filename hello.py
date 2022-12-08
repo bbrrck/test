@@ -5,15 +5,15 @@ def test():
     pass
 
 def french():
-    print("bonjour")
+    print("bonjour!")
 
 
 def slovak():
-    print("ahoj")
+    print("ahoj!")
 
 
 def default():
-    print("hello")
+    print("hello!")
 
 
 def main():
