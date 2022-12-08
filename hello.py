@@ -13,7 +13,7 @@ def slovak():
 
 
 def default():
-    print("hello!")
+    print("hi!")
 
 
 def main():
